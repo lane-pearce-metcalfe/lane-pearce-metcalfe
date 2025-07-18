@@ -12,3 +12,11 @@ Hey there my name is...
 |_|   \___|\__,_|_|  \___\___|     |_|  |_|\___|\__\___\__,_|_|_|  \___(_)         '      '   '  .   '  +         .      '-´ 
 ```
 ## Projects I'm working on...
+
+
+## Technolgies
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
