@@ -11,6 +11,20 @@ Hey there my name is...
 |  __/  __/ (_| | | | (_|  __/_____| |  | |  __/ || (_| (_| | |  _|  __/_|         '   *           .    +  .     .    '   ) ) 
 |_|   \___|\__,_|_|  \___\___|     |_|  |_|\___|\__\___\__,_|_|_|  \___(_)         '      '   '  .   '  +         .      '-´ 
 ```
+
+### > log
+  
+  I've had a love for technology for as long as I can remember and have plenty of fond memories
+  of taking apart any piece of tech I could get my hands on, just to see how they worked and how
+  to put them back together!
+
+### > recent-activity
+
+  In recent months, I took a huge leap and joined a 17 week ‎developer course at Dev Academy.
+  Coming into it, I never thought of myself as a "smart" person, so diving into something as
+  intense as this‎ course was terrifying... But, I learned truly how hungry I was to learn and
+  explorer new topics, especially something I'm passionate about like programming and tech!
+
 ### > tech-stack --list
 
 🧱 Git       🐱 GitHub       🔤 HTML5  
@@ -49,3 +63,15 @@ Hey there my name is...
   I'm still currently working on this React implementation but it's really cool to comapre [it's repo](https://github.com/lane-pearce-metcalfe/minesweeper-react) to
   the repo from the [previous minesweepers repo](https://github.com/lane-pearce-metcalfe/minesweeper) to see how much I've learnt in
   just a few months!
+
+#### [Social Media App](https://github.com/lane-pearce-metcalfe/social-media-app)
+  I know I know... I'm not the most creative when it comes to names! However I really do enjoy working
+  on this project regardless of how basic or oversaturated this type of project is and as long as I love
+  doing it I think thats all that matters (ᵔ◡ᵔ) Anyways... this is almost my playground for coding. It's
+  something that doesnt have an end goal and something that I can continue to build on for as long as I want.
+  Maybe I want to try web sockets in the future for real time messaging?
+  Or even deploying it and seeing if I can use it with a couple friends as our own social media?
+  I can even use it as a project where I can write highly polished codes with tests and everything!
+  The possabilities are endless and I want to keep building on this project as my skills develop to really
+  show off my skills and how much I grow as a programmer!
+  highly polished code
