@@ -9,15 +9,15 @@
 | |_) / _ \/ _` | '__/ __/ _ \_____| |\/| |/ _ \ __/ __/ _` | | |_ / _ \ |   +      o * '  '+                 |  .  +    .-.  
 |  __/  __/ (_| | | | (_|  __/_____| |  | |  __/ || (_| (_| | |  _|  __/_|         '   *           .    +  .     .    '   ) ) 
 |_|   \___|\__,_|_|  \___\___|     |_|  |_|\___|\__\___\__,_|_|_|  \___(_)         '      '   '  .   '  +         .      '-´ 
-
-> tech-stack --list
+```
+### > tech-stack --list
 
 🧱 Git       🐱 GitHub       🔤 HTML5  
 🎨 CSS3      🟨 JavaScript   🟦 TypeScript  
 ⚛️ React     ⚛️ React Native  
-🟩 Node.js   🧪 Express       ☸️ Kubernetes
+🟩 Node.js   🧪 Express      ☸️ Kubernetes
 
-> projects --current
+### > projects --current
 
 - Minesweeper
   Before I came into Dev Academy, I wanted to get as prepared as I possibly could!
@@ -26,4 +26,3 @@
   One of the projects I was super proud of was a Minesweeper game which you can [find here!](https://github.com/lane-pearce-metcalfe/minesweeper)
 
   Which you can even play on [this blog](https://lane-pearce-metcalfe.github.io/main-screen.html) I created during the foundations section of Dev Academy.
-```
