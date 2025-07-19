@@ -25,6 +25,10 @@ Hey there my name is...
   intense as this‎ course was terrifying... But, I learned truly how hungry I was to learn and
   explorer new topics, especially something I'm passionate about like programming and tech!
 
+### > user --connect
+
+  You can find me over at [Linkdeln](https://www.linkedin.com/in/lane-pearce-metcalfe-65a601373/) or download my [CV here!](https://drive.google.com/file/d/1VuB833HL1DJ6mcL3CW6mKKZH5mtg30GD/view)
+
 ### > tech-stack --list
 
 🧱 Git       🐱 GitHub       🔤 HTML5  
