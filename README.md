@@ -17,12 +17,15 @@
 ⚛️ React     ⚛️ React Native  
 🟩 Node.js   🧪 Express      ☸️ Kubernetes
 
-### > projects --current
+### > projects --in-progress
 
 - Minesweeper
   Before I came into Dev Academy, I wanted to get as prepared as I possibly could!
   So I started to mess around with some of the basics of HTML and JavaScript.
 
-  One of the projects I was super proud of was a Minesweeper game which you can [find here!](https://github.com/lane-pearce-metcalfe/minesweeper)
-
-  Which you can even play on [this blog](https://lane-pearce-metcalfe.github.io/main-screen.html) I created during the foundations section of Dev Academy.
+  One of the projects I was super proud of was a Minesweeper game which you can [play here!](https://lane-pearce-metcalfe.github.io/main-screen.html)
+  However... after completing the course I wanted to see how much I've grown as a devloper as well
+  as putting some of the new techonlgys like React to create a more dynamic and polished game.
+  I'm still currently working on this React implementation but it's really cool to comapre [it's repo](https://github.com/lane-pearce-metcalfe/minesweeper-react) to
+  the repo from the [previous minesweepers repo](https://github.com/lane-pearce-metcalfe/minesweeper) to see how much I've learnt in
+  just a few months!
