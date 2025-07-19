@@ -1,4 +1,3 @@
-
 ```
 > user: Hey there my name is...
 ._  +           +        o +~~    +         .            * '.    | ''     +      .       .  . '              .      +   .   
@@ -13,16 +12,18 @@
 
 > tech-stack --list
 
-🧱 Git      🐱 GitHub     🔤 HTML5  
-🎨 CSS3     🟨 JS         🟦 TS       
-⚛️ React    ⚛️ React Native 
-🟩 Node.js  🧪 Express     ☸️ Kubernetes
+🧱 Git       🐱 GitHub       🔤 HTML5  
+🎨 CSS3      🟨 JavaScript   🟦 TypeScript  
+⚛️ React     ⚛️ React Native  
+🟩 Node.js   🧪 Express       ☸️ Kubernetes
 
 > projects --current
 
 - Minesweeper
-  Before I came into Dev Academy I wanted to get as prepared as I possibly could! So I started to mess around with the basics
-  of HTML and JavaScript. One of the projects I was really proud of was a Minesweeper game which you can [find here!](https://github.com/lane-pearce-metcalfe/minesweeper)
-  You can even play it on [this blog[(https://lane-pearce-metcalfe.github.io/main-screen.html) I created during the foundations section of Dev Academy. 
+  Before I came into Dev Academy, I wanted to get as prepared as I possibly could!
+  So I started to mess around with some of the basics of HTML and JavaScript.
 
+  One of the projects I was super proud of was a Minesweeper game which you can [find here!](https://github.com/lane-pearce-metcalfe/minesweeper)
+
+  Which you can even play on [this blog](https://lane-pearce-metcalfe.github.io/main-screen.html) I created during the foundations section of Dev Academy.
 ```
