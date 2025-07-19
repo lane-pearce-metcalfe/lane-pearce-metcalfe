@@ -1,5 +1,6 @@
 ```
-> user: Hey there my name is...
+> user
+Hey there my name is...
 ._  +           +        o +~~    +         .            * '.    | ''     +      .       .  . '              .      +   .   
 | |    __ _ _ __   ___     +          +         +     ' *  .   --o--       *    o    .   ' .                 +      *   o   
 | |   / _` | '_ \ / _ \      o.           .*       +    .:'    + |    O       +  \         o    '  +        '         '   .+ 
@@ -16,6 +17,24 @@
 🎨 CSS3      🟨 JavaScript   🟦 TypeScript  
 ⚛️ React     ⚛️ React Native  
 🟩 Node.js   🧪 Express      ☸️ Kubernetes
+
+### > projects --list
+
+#### [Unoriginal Block Game](https://github.com/lane-pearce-metcalfe/unoriginal-block-game)
+
+  At Dev Academy we were told that on week 7 they would be holding personal project presentations and
+  that we should start thinking about what we might want to build to show off to everyone. At the same
+  time I just so happened to have watched a video about how Minecrafts procedual generation worked.
+  I had a talk to one of the facilitators at Dev Academy and they highly reccomened using 3js if I wanted
+  to turn that dream into a reailty and after plenty of hard work I came up with this...
+  
+<img width="1909" height="980" alt="image" src="https://github.com/user-attachments/assets/7f6a04cc-4da6-4c23-80f0-f6e2e63d38a7" />
+
+  A 3d generated block world where the user can walk around, climb hills, and even destroy blocks! One
+  of the most important lessons and biggest mistakes while building this project was how little I commited...
+  This was originally stored in a different repo but it got so messy that I had to rewrite everything from
+  scratch and even then only 23 commits for a project this size isnt the best. So ever since then I've learnt
+  my lessons and make sure to commit as frequently as I can!
 
 ### > projects --in-progress
 
