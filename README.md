@@ -19,7 +19,8 @@
 
 ### > projects --in-progress
 
-- Minesweeper
+- [Minesweeper](https://github.com/lane-pearce-metcalfe/minesweeper-react)
+
   Before I came into Dev Academy, I wanted to get as prepared as I possibly could!
   So I started to mess around with some of the basics of HTML and JavaScript.
 
