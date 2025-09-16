@@ -68,14 +68,10 @@ Hey there my name is...
   the repo from the [previous minesweepers repo](https://github.com/lane-pearce-metcalfe/minesweeper) to see how much I've learnt in
   just a few months!
 
-#### [Social Media App](https://github.com/lane-pearce-metcalfe/social-media-app)
-  I know I know... I'm not the most creative when it comes to names! However I really do enjoy working
-  on this project regardless of how basic or oversaturated this type of project is and as long as I love
-  doing it I think thats all that matters (ᵔ◡ᵔ) Anyways... this is almost my playground for coding. It's
-  something that doesnt have an end goal and something that I can continue to build on for as long as I want.
-  Maybe I want to try web sockets in the future for real time messaging?
-  Or even deploying it and seeing if I can use it with a couple friends as our own social media?
-  I can even use it as a project where I can write highly polished codes with tests and everything!
-  The possabilities are endless and I want to keep building on this project as my skills develop to really
-  show off my skills and how much I grow as a programmer!
-  highly polished code
+#### [Troll Toll Calculator](https://github.com/lane-pearce-metcalfe/troll-bridge)
+  Recently I've decided to revist one of the old projects we tried while in Dev Academy. During these
+  projects we werent given a whole ton of time to complete them so to fresh up on my skills I wanted
+  to come back and try again with a whole ton more skills under my built and the time to make all the
+  improvments I wanted to that I just didn't have time to during Dev Academy! This also gives me a
+  chance to take attention to detail and test myself to put out as high quality code as I possibly can
+  esspecially without the pressure of deadlines or breaking the entire app minutes before we deploy.
